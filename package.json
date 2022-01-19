@@ -44,15 +44,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXOFIK"
+    "url": "git+https://github.com/BOTCAHX"
   },
   "keywords": [
     "Recode:v"
   ],
-  "author": "NYX-Chan",
+  "author": "Tio",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LXOFIK"
+    "url": "https://github.com/BOTCAHX"
   },
-  "homepage": "https://github.com/LXOFIK"
+  "homepage": "https://github.com/BOTCAHX"
 }
